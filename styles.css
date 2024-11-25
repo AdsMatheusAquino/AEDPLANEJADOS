@@ -139,8 +139,8 @@ footer {
     }
 
     .descricao {
-        width: 90%;
-        margin-left: 30px;
+        width: 100%;
+        margin-left: 9px;
         padding: 20px;
         font-size: 18px;
         text-align: center;
